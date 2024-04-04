@@ -1,0 +1,10 @@
+body {
+ background-color: #f8f9fa; /* Light grey background */
+}
+
+#feeds {
+ background-color: #ffffff; /* White background for contrast */
+ border: 1px solid #dee2e6; /* Slight border */
+ padding: 20px;
+ margin-bottom: 20px; /* Space before the form starts */
+}
